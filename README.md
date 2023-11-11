@@ -1,2 +1,2 @@
-# A_Survey_of_Subgraph_Optimization_for_Collaborative_Team_Formation
-A survey of subgraph optimization for collaborative team formation
+# A Survey of Subgraph Optimization for Collaborative Team Formation
+## Objectives, Techniques, and Critics
