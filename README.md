@@ -24,5 +24,10 @@ The examined papers in this survey can be categorized as follows:
 
 
 
+[Team Formation Methods](figures/methods.jpg)
+
+
+
+
 
 
