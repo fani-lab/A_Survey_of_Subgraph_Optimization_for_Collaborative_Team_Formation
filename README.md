@@ -18,14 +18,16 @@ compare different works and propose future directions.
 Our survey brings forth a unifying and vetted methodology to the various definitions of the notions in this realm, criticizes assumptions and comparative benchmarks,
 and points out shortfalls to smooth the path for future research directions.
 In this survey, we present a novel taxonomy from a computational perspective:
-![Team Formation Methods](figures/methods.pdf)
+![Team Formation Methods](figures/methods-survey.png)
 
-We present a comprehensive overview of 17 seminal graph-based solutions to the Team Formation problem, 
+We present a comprehensive overview of 17 seminal graph-based works to the Team Formation problem, 
 including 13 proposed optimization objectives, after screening 63 algorithms from 126 papers. 
 
 # Neural Team Formation: Frontiers, Tools, and Opportunities
 
+
 # Operation Research on Expert Team Formation
+The search for an almost surely successful team (optimum team) can be traditionaly formulated as a variant of the set cover problem on subsets of experts, using operations research (OR) techniques such as integer linear and nonlinear programming. However, by expanding graph-based methods—which view a team as inherently relational and focus on the interactions and collaboration among experts—we observe a synergistic integration of expert graphs with OR techniques. This integration allows the modeling of the problem through expert graph concepts while leveraging OR methods to solve it effectively.
 
 # Repo Structure
 ```
