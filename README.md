@@ -1,4 +1,5 @@
-## A Survey of Subgraph Optimization for Collaborative Team Formation: Objectives, Techniques, and Critics
+# Surveys on Computational Expert Team Formation
+## A Survey of Subgraph Optimization for Expert Team Formation: Objectives, Techniques, and Critics
 The search for gathering a team of experts who are expected to collaboratively work towards accomplishing a given
 project successfully is referred to as Team Formation, a problem that has historically been solved in a variety of
 ways including manually in a time-consuming and bias-filled manner, and, algorithmically within such disciplines as
@@ -19,9 +20,14 @@ and points out shortfalls to smooth the path for future research directions.
 In this survey, we present a novel taxonomy from a computational perspective:
 ![Team Formation Methods](figures/methods.jpg)
 
-We present a comprehensive overview of 18 seminal graph-based solutions to the Team Formation problem, 
+We present a comprehensive overview of 17 seminal graph-based solutions to the Team Formation problem, 
 including 13 proposed optimization objectives, after screening 63 algorithms from 126 papers. 
-The examined papers in this survey can be categorized as follows:
+
+# Neural Team Formation: Frontiers, Tools, and Opportunities
+
+# Operation Research on Expert Team Formation
+
+# Repo Structure
 ```
 ─categirized_papers
       ├───capacity_of_team_members
