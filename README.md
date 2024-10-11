@@ -1,4 +1,5 @@
 # Surveys on Computational Expert Team Formation
+![Team Formation Methods](figures/venn.png)
 ## A Survey of Subgraph Optimization for Expert Team Formation: Objectives, Techniques, and Critics
 The search for gathering a team of experts who are expected to collaboratively work towards accomplishing a given
 project successfully is referred to as Team Formation, a problem that has historically been solved in a variety of
@@ -26,7 +27,7 @@ including 13 proposed optimization objectives, after screening 63 algorithms fro
 # Neural Team Formation: Frontiers, Tools, and Opportunities
 
 
-![Team Formation Methods](figures/venn.png)
+
 # Operation Research on Expert Team Formation
 The search for an almost surely successful team (optimum team) can be traditionaly formulated as a variant of the set cover problem on subsets of experts, using operations research (OR) techniques such as integer linear and nonlinear programming. However, by expanding graph-based methods—which view a team as inherently relational and focus on the interactions and collaboration among experts—we observe a synergistic integration of expert graphs with OR techniques. This integration allows the modeling of the problem through expert graph concepts while leveraging OR methods to solve it effectively.
 
