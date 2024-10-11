@@ -18,7 +18,7 @@ compare different works and propose future directions.
 Our survey brings forth a unifying and vetted methodology to the various definitions of the notions in this realm, criticizes assumptions and comparative benchmarks,
 and points out shortfalls to smooth the path for future research directions.
 In this survey, we present a novel taxonomy from a computational perspective:
-![Team Formation Methods](figures/methods.jpg)
+![Team Formation Methods](figures/methods.pdf)
 
 We present a comprehensive overview of 17 seminal graph-based solutions to the Team Formation problem, 
 including 13 proposed optimization objectives, after screening 63 algorithms from 126 papers. 
