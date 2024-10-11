@@ -20,7 +20,7 @@ and points out shortfalls to smooth the path for future research directions.
 In this survey, we present a novel taxonomy from a computational perspective:
 ![Team Formation Methods](figures/methods-survey.png)
 
-We present a comprehensive overview of 17 seminal graph-based solutions to the Team Formation problem, 
+We present a comprehensive overview of 17 seminal graph-based works to the Team Formation problem, 
 including 13 proposed optimization objectives, after screening 63 algorithms from 126 papers. 
 
 # Neural Team Formation: Frontiers, Tools, and Opportunities
