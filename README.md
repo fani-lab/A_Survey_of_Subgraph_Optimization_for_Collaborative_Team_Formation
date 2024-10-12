@@ -1,5 +1,16 @@
 # Surveys on Computational Expert Team Formation
-![Team Formation Methods](figures/venn.png)
+
+<table border=0>
+<tr>
+<td>
+      <img src='./figures/methods-survey.png' width="600" align="left"" />
+</td>
+<td>
+      <img src='./figures/venn.png' width="300" align="right"" />
+</td>
+</tr>
+</table>
+
 ## A Survey of Subgraph Optimization for Expert Team Formation: Objectives, Techniques, and Critics
 The search for gathering a team of experts who are expected to collaboratively work towards accomplishing a given
 project successfully is referred to as Team Formation, a problem that has historically been solved in a variety of
@@ -17,12 +28,12 @@ different metrics and the insights that can be drawn from each. Referring to the
 compare different works and propose future directions.
 
 Our survey brings forth a unifying and vetted methodology to the various definitions of the notions in this realm, criticizes assumptions and comparative benchmarks,
-and points out shortfalls to smooth the path for future research directions.
-In this survey, we present a novel taxonomy from a computational perspective:
-![Team Formation Methods](figures/methods-survey.png)
+and points out shortfalls to smooth the path for future research directions. In this survey, we present a novel taxonomy from a computational perspective as shown above.
 
-We present a comprehensive overview of 17 seminal graph-based works to the Team Formation problem, 
-including 13 proposed optimization objectives, after screening 63 algorithms from 126 papers. 
+We present a comprehensive overview of `17` seminal graph-based works on the Team Formation problem, 
+including `13` proposed optimization objectives, after screening `63` algorithms from `126` papers. 
+
+We also recognize the significance of `learning`-based and `operations research (OR)`-based methods for Team Formation. We have targeted them in our immediate research direction.
 
 # Neural Team Formation: Frontiers, Tools, and Opportunities
 
